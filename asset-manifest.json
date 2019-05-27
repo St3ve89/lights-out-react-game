@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lights-out-react-game/static/css/main.279b80c5.chunk.css",
+    "main.js": "/lights-out-react-game/static/js/main.010962bc.chunk.js",
+    "main.js.map": "/lights-out-react-game/static/js/main.010962bc.chunk.js.map",
+    "runtime~main.js": "/lights-out-react-game/static/js/runtime~main.97e5ed0a.js",
+    "runtime~main.js.map": "/lights-out-react-game/static/js/runtime~main.97e5ed0a.js.map",
+    "static/js/2.63a3d80a.chunk.js": "/lights-out-react-game/static/js/2.63a3d80a.chunk.js",
+    "static/js/2.63a3d80a.chunk.js.map": "/lights-out-react-game/static/js/2.63a3d80a.chunk.js.map",
+    "index.html": "/lights-out-react-game/index.html",
+    "precache-manifest.f48aaa4a8f21faec4602ee5ba1975c5c.js": "/lights-out-react-game/precache-manifest.f48aaa4a8f21faec4602ee5ba1975c5c.js",
+    "service-worker.js": "/lights-out-react-game/service-worker.js",
+    "static/css/main.279b80c5.chunk.css.map": "/lights-out-react-game/static/css/main.279b80c5.chunk.css.map"
+  }
+}
